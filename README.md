@@ -1,7 +1,7 @@
 # Visual-Graphics-Editor
 For this Graphics Editor, I have used C &amp; C++ programming languages to provide features like drawing and scaling rectangle, line, ellipse, and provided support for certain repertoire of image editing options
 
-For creating the GUI and implementing various functionalities, gaphics.h header file’s functions are used with the mouse interrupt functions.
+For creating the GUI and implementing various functionalities, graphics.h header file’s functions are used with the mouse interrupt functions.
 
 # Features
 
