@@ -5,23 +5,23 @@ For creating the GUI and implementing various functionalities, gaphics.h header 
 
 # Features
 
--New: This option can be used to create a new image.
+- New: This option can be used to create a new image.
  
--Open: This option can be used to open any previously saved image or drawing by the user.
+- Open: This option can be used to open any previously saved image or drawing by the user.
 
--Save: This option can be used by the user to save any drawing.
+- Save: This option can be used by the user to save any drawing.
 
--Line: This tool can be used to draw any line.
+- Line: This tool can be used to draw any line.
  
--Rectangle: This tool can be used to draw a rectangle of specified dimensions.
+- Rectangle: This tool can be used to draw a rectangle of specified dimensions.
  
--Ellipse: This tool can be used to draw any ellipse specified by the user.
+- Ellipse: This tool can be used to draw any ellipse specified by the user.
  
--Fill: This tool can be to fill any closed object with selected color.
+- Fill: This tool can be to fill any closed object with selected color.
  
--Clear: This option clears the screen completely.
+- Clear: This option clears the screen completely.
  
--Text: This tool can be used to draw any string on the canvas with the selected color from the palette.
+- Text: This tool can be used to draw any string on the canvas with the selected color from the palette.
  
--Color Palette: This option can be used to select any particular color.
+- Color Palette: This option can be used to select any particular color.
  
